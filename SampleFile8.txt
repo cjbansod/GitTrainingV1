@@ -1,2 +1,1 @@
-"GIT revert 8"
 "This is reset check Sample File 8" 
